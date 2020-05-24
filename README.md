@@ -1,5 +1,5 @@
 # Challenge Amaris de Java
-**@uthor** Rolando Alvarez
+**@author** Rolando Alvarez
 
 # Clases dentro del Proyecto
 ## Clase Comment
